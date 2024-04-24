@@ -34,7 +34,7 @@ The dataset used for this project is `movies_youtube_sentiments.csv`, obtained f
 - Correlation matrices to identify relationships between variables.
 - Scatter plots to explore possible correlations.
 - Boxplots to examine the distribution and outliers of numerical data.
-- 
+
 ### [Predict Movie's Gross Revenue]<br>
 - Linear Regression
 - Random Forest
